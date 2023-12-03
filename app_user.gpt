@@ -1,0 +1,2 @@
+Overview: This file defines the model for app users, including id, name, and email.\n\nFunctions:\n- Constructor: Initializes the AppUser object with required fields.\n\nClasses:\n- AppUser: Holds user data.\n\nDependencies:
+None.\n\nGit Integration:\n- Last Modified: Added initial version.\n\nAnnotations:\nToDO, FIXME\n\nTest Coverage:\nNot yet implemented.\n\nPerformance Notes:\nNone.\n\nCross-References:\nNone.
